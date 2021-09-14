@@ -1,0 +1,5 @@
+{
+    "require": {
+        "symfony/monolog-bundle": "^3.7"
+    }
+}
